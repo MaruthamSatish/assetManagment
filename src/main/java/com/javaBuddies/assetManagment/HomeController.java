@@ -33,6 +33,7 @@ public class HomeController {
 		System.out.println("DemoTTTTT");
 		System.out.println("Demo");
 		System.out.println("Demo System");
+		System.out.println("Demo System");
 		model.addAttribute("serverTime", formattedDate );
 		
 		return "home";
